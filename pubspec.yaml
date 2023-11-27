@@ -21,7 +21,7 @@ dependencies:
   dotted_border: ^2.0.0+2
   image_cropper: ^5.0.0
   image_picker: ^1.0.4
-  image_picker_plus: ^0.5.9
+  image_picker_plus: ^0.5.8
   # matrix_gesture_detector: 
   #   git:
   #     url: https://github.com/JaveriaJR/matrix_gesture_detector.git
